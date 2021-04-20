@@ -1,0 +1,124 @@
+/*
+ * The Typekit service used to deliver this font or fonts for use on websites
+ * is provided by Adobe and is subject to these Terms of Use
+ * http://www.adobe.com/products/eulas/tou_typekit. For font license
+ * information, see the list below.
+ *
+ * ubuntu:
+ *   - http://typekit.com/eulas/00000000000000003b9b1392
+ *   - http://typekit.com/eulas/000000000000000077359d2e
+ *   - http://typekit.com/eulas/00000000000000003b9b1396
+ *   - http://typekit.com/eulas/000000000000000077359d30
+ *   - http://typekit.com/eulas/00000000000000003b9b1390
+ *   - http://typekit.com/eulas/000000000000000077359d33
+ *   - http://typekit.com/eulas/00000000000000003b9b1394
+ *   - http://typekit.com/eulas/000000000000000077359d37
+ * ubuntu-condensed:
+ *   - http://typekit.com/eulas/000000000000000077359d2c
+ *
+ * © 2009-2020 Adobe Systems Incorporated. All Rights Reserved.
+ */
+/*{"last_published":"2021-01-30 00:39:47 UTC"}*/
+
+@import url("https://p.typekit.net/p.css?s=1&k=hpj0ckq&ht=tk&f=9662.9663.9664.9665.14527.14528.14529.14530.14531&a=28274412&app=typekit&e=css");
+
+@font-face {
+    font-family: "ubuntu";
+    src: url("https://use.typekit.net/af/1bb10d/00000000000000003b9b1392/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3") format("woff2"), url("https://use.typekit.net/af/1bb10d/00000000000000003b9b1392/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3") format("woff"), url("https://use.typekit.net/af/1bb10d/00000000000000003b9b1392/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3") format("opentype");
+    font-display: auto;
+    font-style: normal;
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: "ubuntu";
+    src: url("https://use.typekit.net/af/1efa5a/000000000000000077359d2e/30/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i4&v=3") format("woff2"), url("https://use.typekit.net/af/1efa5a/000000000000000077359d2e/30/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i4&v=3") format("woff"), url("https://use.typekit.net/af/1efa5a/000000000000000077359d2e/30/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i4&v=3") format("opentype");
+    font-display: auto;
+    font-style: italic;
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: "ubuntu";
+    src: url("https://use.typekit.net/af/cbd133/00000000000000003b9b1396/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3") format("woff2"), url("https://use.typekit.net/af/cbd133/00000000000000003b9b1396/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3") format("woff"), url("https://use.typekit.net/af/cbd133/00000000000000003b9b1396/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3") format("opentype");
+    font-display: auto;
+    font-style: normal;
+    font-weight: 700;
+}
+
+@font-face {
+    font-family: "ubuntu";
+    src: url("https://use.typekit.net/af/259929/000000000000000077359d30/30/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i7&v=3") format("woff2"), url("https://use.typekit.net/af/259929/000000000000000077359d30/30/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i7&v=3") format("woff"), url("https://use.typekit.net/af/259929/000000000000000077359d30/30/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i7&v=3") format("opentype");
+    font-display: auto;
+    font-style: italic;
+    font-weight: 700;
+}
+
+@font-face {
+    font-family: "ubuntu";
+    src: url("https://use.typekit.net/af/acb85d/00000000000000003b9b1390/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n3&v=3") format("woff2"), url("https://use.typekit.net/af/acb85d/00000000000000003b9b1390/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n3&v=3") format("woff"), url("https://use.typekit.net/af/acb85d/00000000000000003b9b1390/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n3&v=3") format("opentype");
+    font-display: auto;
+    font-style: normal;
+    font-weight: 300;
+}
+
+@font-face {
+    font-family: "ubuntu";
+    src: url("https://use.typekit.net/af/833386/000000000000000077359d33/30/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i3&v=3") format("woff2"), url("https://use.typekit.net/af/833386/000000000000000077359d33/30/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i3&v=3") format("woff"), url("https://use.typekit.net/af/833386/000000000000000077359d33/30/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i3&v=3") format("opentype");
+    font-display: auto;
+    font-style: italic;
+    font-weight: 300;
+}
+
+@font-face {
+    font-family: "ubuntu";
+    src: url("https://use.typekit.net/af/aa7b5b/00000000000000003b9b1394/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n5&v=3") format("woff2"), url("https://use.typekit.net/af/aa7b5b/00000000000000003b9b1394/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n5&v=3") format("woff"), url("https://use.typekit.net/af/aa7b5b/00000000000000003b9b1394/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n5&v=3") format("opentype");
+    font-display: auto;
+    font-style: normal;
+    font-weight: 500;
+}
+
+@font-face {
+    font-family: "ubuntu";
+    src: url("https://use.typekit.net/af/ff98c6/000000000000000077359d37/30/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i5&v=3") format("woff2"), url("https://use.typekit.net/af/ff98c6/000000000000000077359d37/30/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i5&v=3") format("woff"), url("https://use.typekit.net/af/ff98c6/000000000000000077359d37/30/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i5&v=3") format("opentype");
+    font-display: auto;
+    font-style: italic;
+    font-weight: 500;
+}
+
+@font-face {
+    font-family: "ubuntu-condensed";
+    src: url("https://use.typekit.net/af/85360d/000000000000000077359d2c/30/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3") format("woff2"), url("https://use.typekit.net/af/85360d/000000000000000077359d2c/30/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3") format("woff"), url("https://use.typekit.net/af/85360d/000000000000000077359d2c/30/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3") format("opentype");
+    font-display: auto;
+    font-style: normal;
+    font-weight: 400;
+}
+
+.tk-ubuntu {
+    font-family: "ubuntu", sans-serif;
+}
+
+.tk-ubuntu-condensed {
+    font-family: "ubuntu-condensed", sans-serif;
+}
+
+/* --------------------------------------------------------------------------- */
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html, body {
+    padding: 0;
+    margin: 0;
+    background-color: black;
+    font-family: Ubuntu, sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+@media print {
+    html, body {
+        background-color: white;
+    }
+}
