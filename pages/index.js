@@ -71,7 +71,7 @@ export default function Home() {
                         <a>.</a>
                     </p>
                     <p className="pb-5">
-                        <a>I am currently available for hiring. You can find a copy of my resume </a>
+                        <a>I am currently available for hire. You can find a copy of my resume </a>
                         <Link href="/resume">
                             <a className="text-gray-theme hover:text-orange-theme text-sm md:text-2xl print:hidden">here
                                 <svg className="h-3 w-3 sm:h-4 sm:w-4 md:h-5 md:w-5 mb-0.5 sm:mb-1 inline"
