@@ -1,7 +1,7 @@
 import Head from "next/head";
 import Link from "next/link";
 
-function ExternalLink(props) {
+function ExternalLink(props: any) {
     return (
         <a
             className="text-gray-theme hover:text-orange-theme text-sm md:text-2xl print:text-black"
@@ -22,7 +22,7 @@ function ExternalLink(props) {
     );
 }
 
-function Emoji(props) {
+function Emoji(props: any) {
     return (
         <span
             role="img"
@@ -36,11 +36,13 @@ function Emoji(props) {
 
 export default function Home() {
     return (
-        <div>
+        <div className="text-white">
             <Head>
-                <title>Qilin Yang - Home</title>
+                <title>Qilin Yang | Home</title>
                 <link rel="icon" href="/favicon.ico"/>
+                <html lang="en"/>
             </Head>
+
             <main className="flex flex-col justify-center pl-10 pr-10 pt-10 md:pl-20 md:pr-20 md:pt-20 select-none">
                 <span className="text-gray-theme font-light text-sm md:text-2xl max-w-xl print:text-black">
                     <p className="pb-5">
@@ -66,8 +68,6 @@ export default function Home() {
                     <p className="pb-5">
                         <a>You should follow me on </a>
                         <ExternalLink link="https://twitter.com/iKiriny" text="Twitter"/>
-                        <a> and </a>
-                        <ExternalLink link="https://www.instagram.com/ikiriny/" text="Instagram"/>
                         <a>.</a>
                     </p>
                     <p className="pb-5">
@@ -107,9 +107,10 @@ export default function Home() {
                     </p>
                 </span>
             </main>
+
             <footer className="pl-10 pr-10 md:pl-20 md:pr-20 select-none print:text-black">
                 <p className="text-gray-500 text-xs md:text-sm pb-10 md:pb-20">
-                    <a>Copyright © 2021 Qilin Yang. All rights reserved.</a>
+                    <a>Copyright &copy; 2021 Qilin Yang. All rights reserved.</a>
                 </p>
             </footer>
         </div>
