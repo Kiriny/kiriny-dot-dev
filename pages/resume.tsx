@@ -1,12 +1,14 @@
-import Head from "next/head"
+import Head from "next/head";
 
 export default function Resume() {
     return (
-        <div className="max-w-5xl">
+        <div className="max-w-5xl text-white">
             <Head>
-                <title>Qilin Yang - Resume</title>
+                <title>Qilin Yang | Resume</title>
                 <link rel="icon" href="/favicon.ico"/>
+                <html lang="en"/>
             </Head>
+
             <main
                 className="justify-center pt-10 pl-10 pr-10 text-gray-theme md:pl-20 md:pr-20 md:pt-20 print:text-black print:pt-2 print:pl-2 print:pr-2">
                 <div className="flex flex-row max-w-4xl">
@@ -166,7 +168,7 @@ export default function Resume() {
                                 <div className="flex flex-row">
                                     <p className="pt-3 pl-2 pr-2 print:-mt-1.5">•</p>
                                     <p className="pt-3 font-light text-base print:text-xs">Volunteered as an event
-                                        photographer at the FIRST® LEGO® League Challenge hosted by Iowa State
+                                        photographer at the FIRST&reg; LEGO&reg; League Challenge hosted by Iowa State
                                         University College of Engineering.</p>
                                 </div>
                                 <div className="flex flex-row">
@@ -296,9 +298,10 @@ export default function Resume() {
                     </div>
                 </div>
             </main>
+
             <footer className="pl-10 pr-10 select-none md:pl-20 md:pr-20 print:hidden">
                 <p className="pt-10 pb-10 text-xs text-gray-500 md:text-sm md:pb-20">
-                    <a>Copyright © 2021 Qilin Yang. All rights reserved.</a>
+                    <a>Copyright &copy; 2021 Qilin Yang. All rights reserved.</a>
                 </p>
             </footer>
         </div>
