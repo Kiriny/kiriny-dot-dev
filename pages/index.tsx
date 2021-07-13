@@ -49,7 +49,7 @@ export default function Home() {
                         <a>Hi there!</a>
                     </p>
                     <p className="pb-5">
-                        <a>My name is Qilin Yang. I recently graduated with a bachelor's degree in Computer Science from </a>
+                        <a>My name is Qilin Yang. I recently graduated with a bachelor&#39;s degree in Computer Science from </a>
                         <ExternalLink link="https://www.iastate.edu" text="Iowa State University"/>
                         <a>.</a>
                     </p>
